@@ -225,7 +225,7 @@ Feature extractor parameters:
 
 ## 2. Sliding Window Search
 
-### 2,1 Sliding Window Implementation
+### 2.1 Sliding Window Implementation
 
 Using the implementation from lecture material as a starting point, I implemented a `ScanArea`-class, `ScanArea`-object is a one sliding window region with window size and overlap parameter. 
 
